@@ -40,7 +40,7 @@ Pupils, schools and an ageing teacher workforce: a data analysis of Greek primar
 │   ├── p2_pyramida_ilikion.csv      # chart 08
 │   └── p2_teachers_55plus.csv
 └── docs/
-    └── methodology.md          # μεθοδολογία εκτίμησης αποχωρήσεων (Greek)
+    └── methodology.md          # πλήρης μεθοδολογία, δεδομένα και περιορισμοί (Greek)
 ```
 
 ## Data sources
