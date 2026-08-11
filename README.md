@@ -17,20 +17,19 @@ Pupils, schools and an ageing teacher workforce: a data analysis of Greek primar
 
 5. **A retirement wave is at the door.** One in four primary teachers is already 55 or older (20,801 of 77,598). The large cohort — those born 1965–69 — has moved one full age band in five years: 22,636 were 50–54 in 2018/19; 17,973 are 55–59 today. They cross the minimum retirement age of 62 between 2027 and 2031. How fast such a cohort empties is measurable: of the 8,757 who were 55–59 in 2018/19, only 2,676 were still serving five years later.
 
-6. **The wave has no second wave behind it.** The next age band is already 40% smaller (10,769), the one after that 60% smaller (7,207). Departures and appointments of ΠΕ70 teachers currently run roughly one to one (4,089 vs 4,750 over 2024–2026). When this cohort passes, both will fall.
-
-*No numerical forecast of teacher departures is attempted: the two available sources — age stocks and published resignation counts — differ by roughly a factor of two, and the timing depends on years of service, which are not published. See [methodology](docs/methodology.md), section 6.5.*
+6. **The wave has no second wave behind it.** The age band following the 55–59 cohort is already 40% smaller (10,769), the one after that 60% smaller (7,207). Over 2024–2026, departures and appointments of ΠΕ70 teachers ran roughly in balance (4,089 against 4,750) — a balance that holds only while departures stay at current levels.
 
 ## Repository structure
 
 ```
 ├── README.md
+├── LICENSE
 ├── scripts/
 │   └── build_datasets.py       # full ETL: Eurostat API → all p2_*.csv files
 ├── data/
 │   ├── p2_enrolments_nuts2.csv
 │   ├── p2_births_nuts3.csv
-│   ├── p2_funnel_nuts2.csv          # chart 01, 02
+│   ├── p2_funnel_nuts2.csv          # charts 01, 02
 │   ├── p2_change_ranking.csv        # chart 03
 │   ├── p2_diktyo_2017_2024.csv      # chart 07
 │   ├── p2_mikra_sxoleia.csv         # chart 05
