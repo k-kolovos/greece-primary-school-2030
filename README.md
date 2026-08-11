@@ -3,7 +3,8 @@
 Pupils, schools and an ageing teacher workforce: a data analysis of Greek primary education towards 2030.
 
 **Interactive dashboard:** [Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/GreecesPrimarySchoolof2030IsAlreadyBorn/Dashboard1)
-**Author:** Konstantinos Kolovos — mathematician, MSc Business Analytics (AUEB)
+
+— Konstantinos Kolovos · Mathematician (NTUA) · MSc Business Analytics (AUEB)
 
 ## Key findings
 
