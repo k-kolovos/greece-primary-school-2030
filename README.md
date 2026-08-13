@@ -2,7 +2,8 @@
 
 Pupils, schools and an ageing teacher workforce: a data analysis of Greek primary education towards 2030.
 
-**Interactive dashboard:** [Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/GreecesPrimarySchoolof2030IsAlreadyBorn/Dashboard1)
+📊 Interactive dashboard:[Tableau Public](https://public.tableau.com/app/profile/konstantinos.kolovos5903/viz/GreecesPrimarySchoolof2030IsAlreadyBorn/Dashboard1) 
+**📰 Published in:** [alfavita.gr](https://www.alfavita.gr/ekpaideysi/556750_dimotiko-sholeio-toy-2030-ehei-idi-gennithei) · [esos.gr](https://www.esos.gr/arthra/100571/dimotiko-sholeio-toy-2030-ehei-idi-gennithei)
 
 — Konstantinos Kolovos · Mathematician (NTUA) · MSc Business Analytics (AUEB)
 
